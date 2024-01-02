@@ -6,7 +6,6 @@ from datetime import date, datetime, timedelta
 import time
 import os
 
-
 Source_Xlsx = r'E:\CreateData_forPydb'
 Pydb_LV1 = r'E:\Pydb_LV1.db'
 
